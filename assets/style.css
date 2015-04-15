@@ -1,6 +1,7 @@
 body {
 	font-family: Helvetica neue, Helvetica, Arial, san-serif;
 	background-color: #F5F5F5;
+	text-align: center;
 }
 
 ::selection	{ 
@@ -12,24 +13,17 @@ body {
 	margin-bottom: 60px;
 }
 
-
-h1 {
-	font-weight: 300;
-	font-size: 18px;
-	color: #666;
-	line-height: 24px;
-}
-
 .links li {
-	font-size: 18px;
+	font-size: 36px;
 	line-height: 1.6em;
+	padding-bottom: 20px;
 }
 
 .links li a {
-	color: #444;
-	letter-spacing: 0px;
+	color: #333;
 	text-decoration: none;
-	border-bottom: 2px solid #eee;
+	padding-bottom: 1px;
+
 }
 
 .links li a:hover {
